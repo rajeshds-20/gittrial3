@@ -1,1 +1,1 @@
-print("sample2")
+print("sample2_revised")
